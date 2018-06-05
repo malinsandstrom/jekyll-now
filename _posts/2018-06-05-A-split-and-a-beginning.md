@@ -1,9 +1,5 @@
 ---
-published: false
----
----
-layout: post
-title: test title
+published: true
 ---
 
 ## In which I split myself in two
