@@ -1,6 +1,11 @@
 ---
 published: false
 ---
+---
+layout: post
+title: test title
+---
+
 ## In which I split myself in two
 
 The best way to learn new tech is to do something fun with it. So, I made myself another GitHub account, shifted all the work stuff over there, and kept my original account for play and learning. 
