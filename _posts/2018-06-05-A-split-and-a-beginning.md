@@ -1,5 +1,6 @@
 ---
 published: true
+tags: english blog
 ---
 
 ## In which I split myself in two
